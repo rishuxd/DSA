@@ -11,5 +11,8 @@ Watched the leactures of Code With Harry DSA series.
 >## Day 2 - 17/05/22
 1. Researched the whole fucking day for the resources of DSA and a good playlist, founded **Love Babber Bhaiya**.
 2. Lecture 1: Intro to Programming and Flowcharts.
->## Day 1 - 17/05/22
+>## Day 3 - 18/05/22
 1. Lecture 2: C++
+>## Day 4 - 19/05/22
+1. Lecture 3: Pattern Part-1
+2. Lecture 4: Pattern Part-2
