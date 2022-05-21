@@ -16,3 +16,7 @@ Watched the lectures of Code With Harry DSA series.
 >## Day 4 - 19/05/22
 1. Lecture 3: Pattern Part-1
 2. Lecture 4: Pattern Part-2
+>## Day 5 - 20/05/22
+1. Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping
+2. Lecture 6: Binary & Decimal Number System
+>## Day 6 - 21/05/22
