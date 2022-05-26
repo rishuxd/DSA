@@ -20,3 +20,7 @@ Watched the lectures of Code With Harry DSA series.
 1. Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping
 2. Lecture 6: Binary & Decimal Number System
 >## Day 6 - 21/05/22
+1. Lecture 7: LeetCode Problem Solving Session
+>## Day 7 - 26/05/22
+1. Lecture 8: Switch Statement & Functions
+2. Lecture 9: Introduction to Arrays in C++
